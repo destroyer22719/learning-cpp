@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa48afdbe524914",
+        "id": "8e29a7a919fbf23a",
         "type": "tabs",
         "children": [
           {
-            "id": "e6e2fea2b3f2a7c6",
+            "id": "562713232d81375d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello World.md",
+                "file": "C++ Basics, Functions and Files/header files/Header Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello World.md",
+                "file": "C++ Basics, Functions and Files/header files/Header Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello World.md",
+                "file": "C++ Basics, Functions and Files/header files/Header Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello World.md"
+                "file": "C++ Basics, Functions and Files/header files/Header Files.md"
               }
             }
           },
@@ -154,8 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a566bb25479131c",
+  "active": "562713232d81375d",
   "lastOpenFiles": [
+    "C++ Basics, Functions and Files/header files/2.11/a.out",
+    "C++ Basics, Functions and Files/header files/2.11/add.h.gch",
+    "a.out",
+    "C++ Basics, Functions and Files/header files/2.11/add.cpp",
+    "C++ Basics, Functions and Files/header files/2.11/main.cpp",
+    "C++ Basics, Functions and Files/header files/2.11/add.h",
+    "C++ Basics, Functions and Files/header files/2.11",
+    "C++ Basics, Functions and Files/header files/Untitled.md",
+    "C++ Basics, Functions and Files/header files/Header Files.md",
+    "Untitled.md",
+    "C++ Basics, Functions and Files/header files",
+    "C++ Basics, Functions and Files",
     "Hello World.md"
   ]
 }
