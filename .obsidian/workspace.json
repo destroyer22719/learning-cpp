@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Basics, Functions and Files/header files/Header Gaurds.md",
+                "file": "Chapter 4/Increment and Decrement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b205ce8c0130864c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 6/Static Local Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "160b2a546cdf0ff5",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Basics, Functions and Files/header files/Header Gaurds.md",
+                "file": "Chapter 6/Static Local Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Basics, Functions and Files/header files/Header Gaurds.md",
+                "file": "Chapter 6/Static Local Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Basics, Functions and Files/header files/Header Gaurds.md"
+                "file": "Chapter 6/Static Local Variables.md"
               }
             }
           },
@@ -156,21 +168,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "562713232d81375d",
+  "active": "b205ce8c0130864c",
   "lastOpenFiles": [
-    "C++ Basics, Functions and Files/header files/Header Files.md",
+    "Chapter 6/Sharing global constants across multiple files (using inline variables).md",
+    "Chapter 6/Static Local Variables.md",
+    "Chapter 6/External Linkage.md",
+    "Chapter 6/Namespaces.md",
+    "Chapter 6/namespaces/a.out",
+    "Chapter 6/namespaces/goo.h",
+    "Chapter 6/namespaces/foo.h",
+    "Chapter 6/namespaces/main.cpp",
+    "Chapter 6/namespaces/goo.cpp",
+    "Chapter 6/namespaces/foo.cpp",
+    "Chapter 6/namespaces",
+    "Chapter 6/Internal Linkage.md",
+    "Best Practice.md",
+    "Chapter 4/Increment and Decrement.md",
+    "Chapter 6",
+    "Chapter 4/comma.cpp",
+    "images",
+    "images/Screenshot from 2023-06-11 13-20-06.png",
     "C++ Basics, Functions and Files/header files/Header Gaurds.md",
-    "C++ Basics, Functions and Files/header files/2.11/main",
-    "C++ Basics, Functions and Files/header files/2.11/a.out",
-    "C++ Basics, Functions and Files/header files/2.11/add.h.gch",
-    "a.out",
-    "C++ Basics, Functions and Files/header files/2.11/add.cpp",
-    "C++ Basics, Functions and Files/header files/2.11/main.cpp",
-    "C++ Basics, Functions and Files/header files/2.11/add.h",
-    "C++ Basics, Functions and Files/header files/2.11",
-    "Untitled.md",
-    "C++ Basics, Functions and Files/header files",
-    "C++ Basics, Functions and Files",
+    "Chapter 4/String View.md",
+    "Chapter 4/Strings.md",
+    "Chapter 4/Type Casting.md",
+    "Chapter 4/(4.14)  Compile-time constants, constant expressions, and constexpr.md",
+    "Chapter 4/Chars.md",
+    "Chapter 4/Booleans.md",
+    "C++ Basics, Functions and Files/header files/Header Files.md",
     "Hello World.md"
   ]
 }
